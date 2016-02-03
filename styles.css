@@ -6,8 +6,8 @@ body {
 }
 #accordion {
 	background: #00A5B5;
-	width: 315px;
-	margin: 100px auto 0 auto;
+	width: 315px; /* Just a filler - Remove for mobile implementation */
+	margin: 100px auto 0 auto; /* Just a filler - Remove for mobile implementation */
 	color: white;
 }
 
